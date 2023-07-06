@@ -1,7 +1,6 @@
 # digital-diploma-smart-contract
-Implementação de um smart contrat em NEO para emissão e validação de diplomas digitais.
+Implementação de um smart contrat em NEO3 para emissão e validação de diplomas digitais.
 
 
 Alunos:
-Luam Silva 
-Karina Lemos
+Karina Lemos & Luam Souza
