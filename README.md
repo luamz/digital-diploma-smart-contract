@@ -1,6 +1,3 @@
-# Smart Contract for Digital Diploma Emition and Validation
-Implementação de um smart contract em NEO3 para emissão e validação de diplomas digitais.
-
-
-Alunos:
-Karina Lemos & Luam Souza
+# Smart Contract for Digital Diploma Issuance and Validation
+Implementation of a smart contract in NEO3 for issuing and validating digital diplomas.
+by Karina Lemos & Luam Souza
